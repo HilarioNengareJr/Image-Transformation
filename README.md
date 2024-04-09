@@ -1,1 +1,1 @@
-This is a C++ course project to facilitate image transformations using libpng library.
+This is a C++ project to facilitate image transformations using libpng library.
