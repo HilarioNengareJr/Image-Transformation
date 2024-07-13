@@ -2,6 +2,8 @@ This is a C++ project to facilitate image transformations using libpng library.
 
 # Transformations
 
+## Original Image
+
 ## Reflected
 
 ![image](https://github.com/user-attachments/assets/0a2bd492-ddfc-4d9f-8e8e-29059c226782)
@@ -18,5 +20,6 @@ This is a C++ project to facilitate image transformations using libpng library.
 
 ![image](https://github.com/user-attachments/assets/4ca6a05a-cc52-4bcd-9236-8ff9813cd192)
 
-## translated
+## translated (Origin of 0:0)
 
+![image](https://github.com/user-attachments/assets/93ec01ef-5884-4ace-864c-2cd294f1b1e2)
