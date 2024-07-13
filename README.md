@@ -8,3 +8,4 @@ This is a C++ project to facilitate image transformations using libpng library.
 
 ## Rotated
 
+![image](https://github.com/user-attachments/assets/960ac1d3-f214-4587-b4df-0b57e20a661c)
