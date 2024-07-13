@@ -13,3 +13,10 @@ This is a C++ project to facilitate image transformations using libpng library.
 ## Scaled (The image scaled out of frame here..oops!)
 
 ![image](https://github.com/user-attachments/assets/45ed8086-1e48-4925-9404-a91e12d20c25)
+
+## Sheared
+
+![image](https://github.com/user-attachments/assets/4ca6a05a-cc52-4bcd-9236-8ff9813cd192)
+
+## translated
+
