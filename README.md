@@ -4,6 +4,8 @@ This is a C++ project to facilitate image transformations using libpng library.
 
 ## Original Image
 
+![image](https://github.com/user-attachments/assets/6f30cdea-991e-40e7-9e23-8e1ae653cdcb)
+
 ## Reflected
 
 ![image](https://github.com/user-attachments/assets/0a2bd492-ddfc-4d9f-8e8e-29059c226782)
